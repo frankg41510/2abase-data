@@ -1,0 +1,23 @@
+{
+  "generatedAt": "2026-05-29T04:59:28.869Z",
+  "scanDate": "2026-05-29",
+  "lawFacts": {
+    "CA": "California requires a 10-day waiting period for all firearm purchases, regardless of whether you already own firearms.",
+    "TX": "Texas is a permitless carry state — any non-prohibited resident 21 or older may carry a handgun without a license.",
+    "FL": "Florida became a permitless carry state in July 2023; the optional CWL remains useful for interstate reciprocity.",
+    "CO": "Colorado requires background checks for all firearm transfers, including private sales conducted without an FFL.",
+    "IL": "Illinois requires a Firearm Owner's Identification (FOID) card to legally possess or purchase any firearm or ammunition.",
+    "NY": "Following Bruen, New York's CCIA sensitive-places restrictions are being litigated — several provisions remain enjoined pending federal court review.",
+    "CT": "Connecticut has a 14-day waiting period for all firearm purchases and bans assault weapons and large-capacity magazines.",
+    "HI": "Hawaii requires a permit to purchase any firearm and mandates registration of all firearms within 5 days of acquisition.",
+    "AZ": "Arizona is a permitless carry state with no firearm registration requirement and strong statewide preemption laws.",
+    "GA": "Georgia's permitless carry law has been in effect since April 2022; the optional Weapons Carry License still provides reciprocity in many states.",
+    "OH": "Ohio became a permitless carry state in June 2022; carriers must inform law enforcement of a firearm only if directly asked.",
+    "VA": "Virginia requires universal background checks for all firearm sales and has a one-handgun-per-month purchase limit.",
+    "WA": "Washington has a 10-day waiting period for all firearm purchases and bans magazines capable of holding more than 10 rounds.",
+    "TN": "Tennessee has been a permitless carry state since July 2021; the optional Handgun Carry Permit remains valuable for reciprocity.",
+    "NC": "North Carolina repealed its Pistol Purchase Permit system in March 2023 — buyers now complete a standard NICS background check at an FFL.",
+    "NJ": "New Jersey requires a Firearms Purchaser ID Card for long guns and a separate permit for each handgun purchase.",
+    "FED": "The Supreme Court's 2022 Bruen decision established that firearms regulations must be consistent with the nation's historical tradition — reshaping how courts evaluate 2A challenges."
+  }
+}

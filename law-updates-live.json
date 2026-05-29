@@ -1,0 +1,18 @@
+{
+  "generatedAt": "2026-05-29T04:59:28.775Z",
+  "scanDate": "2026-05-29",
+  "updateCount": 1,
+  "newThisScan": 0,
+  "updates": [
+    {
+      "id": "test-notification-001",
+      "state": "TX",
+      "title": "Test: 2A Base Notifications Active",
+      "summary": "This is a test update to confirm that live law updates are being delivered correctly to your device. If you can see this in the Updates tab, your notification pipeline is working.",
+      "category": "enacted",
+      "sourceUrl": "https://2abase.com",
+      "publishedAt": "2026-05-25T09:00:00.000Z",
+      "isNew": true
+    }
+  ]
+}
